@@ -2754,7 +2754,7 @@ osenv@^0.1.0, osenv@^0.1.4:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
-osmosis@^1.1.4:
+osmosis:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/osmosis/-/osmosis-1.1.4.tgz#36b773b6c63b65d70f186b9cf44da3e5d67a2b1b"
   dependencies:
